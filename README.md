@@ -3,4 +3,3 @@ Persian handwriting detection from a special form input(KNTU computer vision fin
 
 Author
 shahrzad shashaani ([@shahrzad-sh](https://github.com/Shahrzad-sh))
-Farnaz Kashefi ([@Farnazkash](https://github.com/Farnazkash))

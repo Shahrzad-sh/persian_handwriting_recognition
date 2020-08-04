@@ -5,4 +5,4 @@ Persian handwriting detection from a special form input(KNTU computer vision fin
 shahrzad shashaani ([@shahrzad-sh](https://github.com/Shahrzad-sh))
 
 ## Licences
-This project use [MIT](https://github.com/Shahrzad-sh/persian_handwriting_recognition/blob/master/LICENSE) licence.
+This project uses [MIT](https://github.com/Shahrzad-sh/persian_handwriting_recognition/blob/master/LICENSE) licence.
